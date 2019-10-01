@@ -1,0 +1,11 @@
+1) I have used db first apporach
+2) i have used repository and service pattern (didnt use genric repository pattern)
+3) I have used ajax for deleting users and departments
+
+
+versions:
+
+VS 2019 Community
+SQL Server 2017
+Connection strings in appsettings.json
+Windows 10
